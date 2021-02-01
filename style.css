@@ -1,0 +1,43 @@
+body {
+    background-color:#DCDCDC;
+
+
+}
+main {
+
+    background-image: url("pic/money2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+
+}
+h1 {
+    color:#000000;
+    font-family: "caveat", "arial", sans-serif;
+    font-size: 100px;
+    text-align: center;
+
+}
+a:hover {
+    letter-spacing: 3px;
+    font-style: italic;
+    text-transform: none;
+
+}
+a.target:hover {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a.target {
+    text-decoration: none;
+}
+#target1 {
+    font-family: "caveat", "arial", sans-serif;
+    font-size: 50px;
+}
+#target2 {
+    font-family: "caveat", "arial", sans-serif;
+    font-size: 50px;
+}
+
